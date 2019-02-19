@@ -1,5 +1,6 @@
 DMYTRO FIEDOSIEIEV
-  iOS engineer with over 8 years of experience developing iPhone/iPad apps. I have in-depth knowledge of the iOS platform. Coming from a web dev background gives me a good understanding of all the aspects of modern connected apps.
+
+iOS engineer with over 8 years of experience developing iPhone/iPad apps. I have in-depth knowledge of the iOS platform. Coming from a web dev background gives me a good understanding of all the aspects of modern connected apps.
 
 EXPERTISE
 • Objective C (6 years)
