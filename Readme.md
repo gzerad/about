@@ -38,4 +38,6 @@ submission
 
 • English (Fluent)
 
-• Russian (Native speaker) • Ukrainian (Native speaker)
+• Russian (Native speaker) 
+
+• Ukrainian (Native speaker)
