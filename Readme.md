@@ -6,11 +6,8 @@ iOS engineer with over 8 years of experience developing iPhone/iPad apps. I have
 **EXPERTISE**
 
 • Objective C (6 years)
-
 • Swift (3 years)
-
 • C++ (1 year)
-
 • PHP (2 years)
 • Javascript (1 year)
 • MySQL, SQL Server (2 years)
@@ -25,12 +22,20 @@ submission
 • Strong UX skills / Apple HIG / Apple App Store review guidelines
 
 **WORK EXPERIENCE**
+
 2011 - 2017, Senior Software Engineer, Sourcebits
+
 2008 – 2011, Software Engineer, SoftwareMacKiev
+
 2006 – 2008, Freelance Software Engineer
+
 
 **EDUCATION**
  
-• B.S., Computer Science, Mižregional'na Akademija Upravlinnja Personalom, Kiev, 2008. LANGUAGES SPOKEN
+• B.S., Computer Science, Mižregional'na Akademija Upravlinnja Personalom, Kiev, 2008. 
+
+**LANGUAGES SPOKEN**
+
 • English (Fluent)
+
 • Russian (Native speaker) • Ukrainian (Native speaker)
