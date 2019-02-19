@@ -22,6 +22,7 @@ submission
 • Strong UX skills / Apple HIG / Apple App Store review guidelines
 
 **WORK EXPERIENCE**
+
 2017 - iOS Software Development Consultant
 
 2011 - 2017, Senior Software Engineer, Sourcebits
